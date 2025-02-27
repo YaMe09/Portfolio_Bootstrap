@@ -1,4 +1,4 @@
-# Bulma
+# Bootstrap
 ## Beskrivelse
 Dette er mit personlige portfolio, hvor jeg præsenterer mine projekter og færdigheder. Portfolioen er bygget med HTML og Bootstrap CSS framework for at skabe et responsivt og moderne design.
 ### Frontend-værktøjer
